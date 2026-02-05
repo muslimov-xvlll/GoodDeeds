@@ -57,7 +57,7 @@ A full demonstration of the app is available in the repository:
 
 ## 📄 Presentation
 A short presentation describing the idea and functionality is included:  
-**`/IT Школа Samsung_Шаблон презентации.pptx`** **
+**`/IT Школа Samsung_Шаблон презентации.pptx`**
 
 ---
 
